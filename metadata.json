@@ -1,0 +1,6 @@
+{
+  "name": "Dark Tunnel",
+  "description": "Dark Tunnel VPN client with SSH, V2Ray, SlowDNS server extraction, custom payload generator, bug host SNI analyzer, and real tunnel manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
